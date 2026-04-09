@@ -1,0 +1,2 @@
+# Data-analysis-project-on-International-education-costs-using-Python.
+Data analysis project on International education costs using Python.This project analyzes tuition fees, living expenses, and overall study costs across different countries to identify trends, affordability patterns, and cost variations. It uses Python, Pandas, and visualization tools to provide insights for students planning to study abroad.
